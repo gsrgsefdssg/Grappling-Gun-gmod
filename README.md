@@ -10,7 +10,6 @@ A crazy fast grappling hook that lets you fly across maps at insane speeds!
 - 🔧 **No Custom Models Required** - Uses default GMod assets
 
 ## Installation
-https://drive.google.com/drive/folders/1DWC0YxmKyKVqy3PlbjeMGt5mj-etJAXF?usp=drive_link
 1. Download the `grappling_gun` folder
 2. Place it in `garrysmod/addons/`
 3. Restart GMod
